@@ -16,7 +16,7 @@ Now I’m looking for a job as a front-end developer in a dream team.
   * Study at [Yandex.Practicum](https://practicum.com/) school and listen carefully to mentors and code reviewers
   <!-- * [I solve problems on CodeWars](https://www.codewars.com/users/IreneSfv) -->
   
-## My current tech stack:
+## Current tech stack:
 
 * HTML5
 * CSS3
