@@ -1,6 +1,6 @@
 # Hello 👋 My name is Irina!
 
-I'm a highly motivated entry-level web developer. I dream of building performance applications that solve business problems and provide users with an awesome experience. Before that, I worked as a UX writer for a long time. My previous career allowed me to be communicative, creative and passionate about creating a good UX. 
+I'm a highly motivated entry-level web developer. I dream of building performance applications that solve business problems and provide users with an awesome experience. My previous career as a UX writer allowed me to be communicative, creative and passionate about creating a good UX. 
 
 Now I’m looking for a job as a front-end developer in a dream team.
 
