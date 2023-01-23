@@ -25,7 +25,6 @@ Now I’m looking for a job as a front-end developer in a dream team.
 * GIT
 * NPM
 * WebPack
-* JQuery
 
 ## Coming quite soon:
 
