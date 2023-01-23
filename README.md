@@ -30,10 +30,9 @@ Now I’m looking for a job as a front-end developer in a dream team.
 
 * TypeScript
 * React
-* Deep dive into the current stack
-* Java for backend web development
+* Java for backend development
 * NodeJS
-* Get to know unit testing
+* Unit testing
 
 ## Contact me:
 
