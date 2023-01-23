@@ -7,7 +7,7 @@ Now I’m looking for a job as a front-end developer in a dream team.
 ## My principles:
 
 * 🎓 I'm doing my best to achieve a high level of mastership. Now I'm actively working on my portfolio and spending a lot of time on self-education
-* 🎯 My goal is goal is to work in a team with wonderful people, where I can constantly develop myself and work on exciting projects
+* 🎯 My goal is to work in a team with wonderful people, where I can constantly develop myself and work on exciting projects
 * 🪄 I try to write well-readable and clean code
 * 🆕 I'm eager to learn new frameworks and expand my tech stack
 * 📌 To reach my goals, I do:
