@@ -34,7 +34,7 @@ Now I’m looking for a job as a front-end developer in a dream team.
 * NodeJS
 * Unit testing
 
-## Contact me:
+## Contact:
 
 * E-mail: [irinasfv19@gmail.com](mailto:irinasfv19@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/irene-safarova/)
