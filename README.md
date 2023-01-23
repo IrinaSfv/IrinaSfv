@@ -1,6 +1,7 @@
 # Hello 👋 My name is Irina!
 
-I'm a highly motivated entry-level web developer. I dream of building performance applications that solve business problems and provide users with an awesome experience. 
+I'm a highly motivated entry-level web developer. I dream of building performance applications that solve business problems and provide users with an awesome experience. Before that, I worked as a UX writer for a long time. My previous career allowed me to be communicative, creative and passionate about creating a good UX. 
+
 Now I’m looking for a job as a front-end developer in a dream team.
 
 ## My principles:
@@ -10,9 +11,9 @@ Now I’m looking for a job as a front-end developer in a dream team.
 * 🪄 I try to write well-readable and clean code
 * 🆕 I'm eager to learn new frameworks and expand my tech stack
 * 📌 To reach my goals, I do:
-  * Work on my pet projects
-  * read professional books and watch educational videos. For example, now I've been reading the book "Grokking Algorithms" and watching video lectures of the CS50 course
-  * Listen to mentors and code reviewers on the [Yandex.Practicum platform](https://practicum.com/)
+  * Work on my own pet projects
+  * Read professional books and watch educational videos. For example, now I've been reading the book "Grokking Algorithms" and watching video lectures of the CS50 course
+  * Study at [Yandex.Practicum](https://practicum.com/) school and listen carefully to mentors and code reviewers
   <!-- * [I solve problems on CodeWars](https://www.codewars.com/users/IreneSfv) -->
   
 ## My current tech stack:
@@ -26,7 +27,7 @@ Now I’m looking for a job as a front-end developer in a dream team.
 * WebPack
 * JQuery
 
-## Coming quite soon
+## Coming quite soon:
 
 * TypeScript
 * React
@@ -35,10 +36,8 @@ Now I’m looking for a job as a front-end developer in a dream team.
 * NodeJS
 * Get to know unit testing
 
-## Contact me
+## Contact me:
 
 * E-mail: [irinasfv19@gmail.com](mailto:irinasfv19@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/irene-safarova/)
-* [Telegram @irinasfv](https://t.me/irinasfv)
-
-* Before I was a UX Writer. My previous career allowed me to be communicative, creative and passionate about creating a good UX. I always take into consideration the users' pain points while doing tasks. I'll be glad to use these qualities in my new work.
+* Telegram: [@irinasfv](https://t.me/irinasfv)
