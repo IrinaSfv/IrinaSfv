@@ -38,5 +38,5 @@ Now I’m looking for a job as a front-end developer in a dream team.
 ## Contact:
 
 * E-mail: [irinasfv19@gmail.com](mailto:irinasfv19@gmail.com)
-* * Telegram: [@irinasfv](https://t.me/irinasfv)
+* Telegram: [@irinasfv](https://t.me/irinasfv)
 * [LinkedIn](https://www.linkedin.com/in/irene-safarova/)
