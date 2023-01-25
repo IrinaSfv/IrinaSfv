@@ -1,6 +1,5 @@
 # Hello 👋 My name is Irina!
 
-
 <div id="badges">
   <a href="mailto:irinasfv19@gmail.com">
     <img src="https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Gmail&logoColor=white" alt="E-mail Badge"/>
