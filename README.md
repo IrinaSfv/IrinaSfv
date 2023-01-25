@@ -29,32 +29,27 @@ Now I’m looking for a job as a front-end developer in a dream team.
   
 ## Current tech stack:
 
-<!-- * HTML5
-* CSS3
-* BEM naming and Nested file structure
-* Bootstrap
-* JavaScript
-* GIT
-* NPM
-* WebPack -->
 <div id="stackBadges">
-   <img src="https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/>
-   <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 Badge"/>
-   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript Badge"/>
-   <img src="https://img.shields.io/badge/-GIT-orange?style=for-the-badge&logo=Git&logoColor=white" alt="GIT Badge"/>
-   <img src="https://img.shields.io/badge/-BEM-black?style=for-the-badge" alt="BEM Badge"/>
-   <img src="https://img.shields.io/badge/-NPM-red?style=for-the-badge&logo=NPM&logoColor=white" alt="NPM Badge"/>
-   <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap Badge"/>
-   <img src="https://img.shields.io/badge/-WebPack-blue?style=for-the-badge&logo=WebPack&logoColor=white" alt="WebPack Badge"/>
+   <img src="https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
+   <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
+   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/>
+   <img src="https://img.shields.io/badge/-GIT-orange?style=for-the-badge&logo=Git&logoColor=white" alt="GIT"/>
+   <img src="https://img.shields.io/badge/-BEM-black?style=for-the-badge" alt="BEM"/>
+   <img src="https://img.shields.io/badge/-NPM-red?style=for-the-badge&logo=NPM&logoColor=white" alt="NPM"/>
+   <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"/>
+   <img src="https://img.shields.io/badge/-WebPack-blue?style=for-the-badge&logo=WebPack&logoColor=white" alt="WebPack"/>
 </div>
 
 ## Coming quite soon:
 
 * TypeScript
 * React
-* Java for backend development
 * NodeJS
-* Unit testing
+<div id="soonBadges">
+   <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/>
+   <img src="https://img.shields.io/badge/-React-gray?style=for-the-badge&logo=React&logoColor=blue" alt="React"/>
+   <img src="https://img.shields.io/badge/-NodeJS-green?style=for-the-badge" alt="NodeJS"/>
+</div>
 
 <!-- ## Contact:
 
