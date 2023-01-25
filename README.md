@@ -1,8 +1,14 @@
 # Hello 👋 My name is Irina!
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="mailto:irinasfv19@gmail.com">
+    <img src="https://img.shields.io/badge/-E--mail-lightgray?style=flat-square&logo=Gmail" alt="E-mail Badge"/>
+  </a>
+  <a href="https://t.me/irinasfv">
+    <img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/irene-safarova/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 I'm a highly motivated web developer. I dream of building performance applications that solve business problems and provide users with an awesome experience. My previous career as a UX writer allowed me to be communicative, creative and passionate about creating a good UX. 
