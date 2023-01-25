@@ -42,21 +42,13 @@ Now I’m looking for a job as a front-end developer in a dream team.
 
 ## Coming quite soon:
 
-* TypeScript
-* React
-* NodeJS
 <div id="soonBadges">
    <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/>
    <img src="https://img.shields.io/badge/-React-gray?style=for-the-badge&logo=React&logoColor=blue" alt="React"/>
    <img src="https://img.shields.io/badge/-NodeJS-green?style=for-the-badge" alt="NodeJS"/>
 </div>
 
-<!-- ## Contact:
-
-* E-mail: [irinasfv19@gmail.com](mailto:irinasfv19@gmail.com)
-* Telegram: [@irinasfv](https://t.me/irinasfv)
-* [LinkedIn](https://www.linkedin.com/in/irene-safarova/)
- -->
+## Some stats:
  
 [![Irina Safarova's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrinaSfv&theme=shades-of-purple)](https://github.com/IrinaSfv/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaSfv&layout=compact&theme=shades-of-purple)](https://github.com/IrinaSfv/github-readme-stats)
