@@ -46,11 +46,12 @@ Now I’m looking for a job as a front-end developer in a dream team.
 * NodeJS
 * Unit testing
 
-## Contact:
+<!-- ## Contact:
 
 * E-mail: [irinasfv19@gmail.com](mailto:irinasfv19@gmail.com)
 * Telegram: [@irinasfv](https://t.me/irinasfv)
 * [LinkedIn](https://www.linkedin.com/in/irene-safarova/)
-
+ -->
+ 
 [![Irina Safarova's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrinaSfv&theme=shades-of-purple)](https://github.com/IrinaSfv/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaSfv&layout=compact&theme=shades-of-purple)](https://github.com/IrinaSfv/github-readme-stats)
