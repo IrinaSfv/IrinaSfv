@@ -41,5 +41,5 @@ Now I’m looking for a job as a front-end developer in a dream team.
 * Telegram: [@irinasfv](https://t.me/irinasfv)
 * [LinkedIn](https://www.linkedin.com/in/irene-safarova/)
 
-[![Irina's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrinaSfv&theme=ocean_dark&show_icons=true)](https://github.com/IrinaSfv/github-readme-stats)
+[![Irina Safarova's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrinaSfv)](https://github.com/IrinaSfv/github-readme-stats)
 <!-- ![Irina's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrinaSfv&theme=ocean_dark&show_icons=true) -->
