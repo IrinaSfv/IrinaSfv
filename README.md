@@ -1,7 +1,7 @@
 # Hello 👋 My name is Irina!
 <div id="badges">
   <a href="mailto:irinasfv19@gmail.com">
-    <img src="https://img.shields.io/badge/-E--mail-lightgray?style=flat-square&logo=Gmail" alt="E-mail Badge"/>
+    <img src="https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Gmail&logoColor=white" alt="E-mail Badge"/>
   </a>
   <a href="https://t.me/irinasfv">
     <img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
