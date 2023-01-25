@@ -42,4 +42,4 @@ Now I’m looking for a job as a front-end developer in a dream team.
 * [LinkedIn](https://www.linkedin.com/in/irene-safarova/)
 
 [![Irina Safarova's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrinaSfv&theme=ocean_dark)](https://github.com/IrinaSfv/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaSfv)](https://github.com/IrinaSfv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaSfv&theme=ocean_dark)](https://github.com/IrinaSfv/github-readme-stats)
