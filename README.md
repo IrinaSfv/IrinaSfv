@@ -45,7 +45,7 @@ Now I’m looking for a job as a front-end developer in a dream team.
 
 <div id="soonBadges">
    <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/>
-   <img src="https://img.shields.io/badge/-React-gray?style=for-the-badge&logo=React&logoColor=blue" alt="React"/>
+   <img src="https://img.shields.io/badge/-React-gray?style=for-the-badge&logo=React&logoColor=lightblue" alt="React"/>
    <img src="https://img.shields.io/badge/-NodeJS-green?style=for-the-badge" alt="NodeJS"/>
 </div>
 
