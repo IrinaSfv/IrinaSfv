@@ -36,21 +36,19 @@ Now I’m looking for a job as a front-end developer in a dream team.
    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/>
    <img src="https://img.shields.io/badge/-BEM-black?style=for-the-badge" alt="BEM"/>
    <img src="https://img.shields.io/badge/-NPM-red?style=for-the-badge&logo=NPM&logoColor=white" alt="NPM"/>
-   <img src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"/>
-<!--    <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"/> -->
+   <img src="https://img.shields.io/badge/Bootstrap-7610F7.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"/>
    <img src="https://img.shields.io/badge/-WebPack-blue?style=for-the-badge&logo=WebPack&logoColor=white" alt="WebPack"/>
 </div>
 
 ## Tools:
 <div id="toolsBadges">
    <img src="https://img.shields.io/badge/-GIT-orange?style=for-the-badge&logo=Git&logoColor=white" alt="GIT"/>
-   <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />
-   <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />
-   <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-   <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
-   <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-31A8FF.svg?&style=for-the-badge&logo=Figma&logoColor=fff" />&nbsp;
-   <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
+   <img src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" alt="Github"/>
+   <img src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" alt="VScode"/>
+   <img src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" alt="Jira"/>
+   <img src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" alt="Confluence"/>
+   <img src="https://img.shields.io/badge/Figma-gray?&style=for-the-badge&logo=Figma&logoColor=fff" alt="Figma"/>
+   <img src="https://img.shields.io/badge/photoshop-F05033.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" alt="Photoshop"/>
 </div>
 
 ## Coming quite soon:
