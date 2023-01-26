@@ -45,7 +45,7 @@ Now I’m looking for a job as a front-end developer in a dream team.
    <img src="https://img.shields.io/badge/-GIT-orange?style=for-the-badge&logo=Git&logoColor=white" alt="GIT"/>
    <img src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" alt="Github"/>
    <img src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" alt="VScode"/>
-   <img src="https://img.shields.io/badge/Figma-indigo?&style=for-the-badge&logo=Figma&logoColor=fff" alt="Figma"/>
+   <img src="https://img.shields.io/badge/Figma-5920B1.svg?&style=for-the-badge&logo=Figma&logoColor=fff" alt="Figma"/>
    <img src="https://img.shields.io/badge/photoshop-red?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" alt="Photoshop"/>
    <img src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" alt="Jira"/>
    <img src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" alt="Confluence"/>
