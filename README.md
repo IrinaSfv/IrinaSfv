@@ -35,7 +35,7 @@ Now I’m looking for a job as a front-end developer in a dream team.
    <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/>
    <img src="https://img.shields.io/badge/-BEM-black?style=for-the-badge" alt="BEM"/>
-   <img src="https://img.shields.io/badge/-NPM-red?style=for-the-badge&logo=NPM&logoColor=white" alt="NPM"/>
+   <img src="https://img.shields.io/badge/-NPM-F05033.svg?style=for-the-badge&logo=NPM&logoColor=white" alt="NPM"/>
    <img src="https://img.shields.io/badge/Bootstrap-7610F7.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"/>
    <img src="https://img.shields.io/badge/-WebPack-blue?style=for-the-badge&logo=WebPack&logoColor=white" alt="WebPack"/>
 </div>
@@ -48,7 +48,7 @@ Now I’m looking for a job as a front-end developer in a dream team.
    <img src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" alt="Jira"/>
    <img src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" alt="Confluence"/>
    <img src="https://img.shields.io/badge/Figma-gray?&style=for-the-badge&logo=Figma&logoColor=fff" alt="Figma"/>
-   <img src="https://img.shields.io/badge/photoshop-F05033.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" alt="Photoshop"/>
+   <img src="https://img.shields.io/badge/photoshop-red?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" alt="Photoshop"/>
 </div>
 
 ## Coming quite soon:
