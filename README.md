@@ -38,6 +38,14 @@ Now I’m looking for a job as a front-end developer in a dream team.
    <img src="https://img.shields.io/badge/-NPM-F05033.svg?style=for-the-badge&logo=NPM&logoColor=white" alt="NPM"/>
    <img src="https://img.shields.io/badge/Bootstrap-7610F7.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"/>
    <img src="https://img.shields.io/badge/-WebPack-blue?style=for-the-badge&logo=WebPack&logoColor=white" alt="WebPack"/>
+   <img src="https://img.shields.io/badge/-React-gray?style=for-the-badge&logo=React&logoColor=lightblue" alt="React"/>
+</div>
+
+## Coming quite soon:
+
+<div id="soonBadges">
+   <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/>
+   <img src="https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
 </div>
 
 ## Tools:
@@ -51,16 +59,8 @@ Now I’m looking for a job as a front-end developer in a dream team.
    <img src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" alt="Confluence"/>
 </div>
 
-## Coming quite soon:
-
-<div id="soonBadges">
-   <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/>
-   <img src="https://img.shields.io/badge/-React-gray?style=for-the-badge&logo=React&logoColor=lightblue" alt="React"/>
-   <img src="https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-</div>
-
-<!-- ## Some stats:
+## Some stats:
  
 [![Irina Safarova's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrinaSfv&theme=solarized-light)](https://github.com/IrinaSfv/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaSfv&layout=compact&theme=solarized-light)](https://github.com/IrinaSfv/github-readme-stats)
- -->
+
