@@ -33,9 +33,9 @@ Now I’m looking for a job as a front-end developer in a dream team.
 <div id="stackBadges">
    <img src="https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
    <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
+   <img src="https://img.shields.io/badge/-BEM-black?style=for-the-badge" alt="BEM"/>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
    <img src="https://img.shields.io/badge/-React-gray?style=for-the-badge&logo=React&logoColor=lightblue" alt="React"/>
-   <img src="https://img.shields.io/badge/-BEM-black?style=for-the-badge" alt="BEM"/>
    <img src="https://img.shields.io/badge/-NPM-F05033.svg?style=for-the-badge&logo=NPM&logoColor=white" alt="NPM"/>
    <img src="https://img.shields.io/badge/Bootstrap-7610F7.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"/>
    <img src="https://img.shields.io/badge/-WebPack-blue?style=for-the-badge&logo=WebPack&logoColor=white" alt="WebPack"/>
