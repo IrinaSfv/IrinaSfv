@@ -4,10 +4,10 @@
   <a href="mailto:irinasfv19@gmail.com">
     <img src="https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Gmail&logoColor=white" alt="E-mail Badge"/>
   </a>
-  <a href="https://t.me/irinasfv" target="_blank">
+  <a href="https://t.me/irinasfv">
     <img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/irene-safarova/" target="_blank">
+  <a href="https://www.linkedin.com/in/irene-safarova/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -17,7 +17,7 @@ I love when interfaces are made with care for users, and I want to create exactl
 <br><br>
 Now I’m looking for a job as a front-end developer. I wish to join a dream team, where I can develop myself and work on great projects.
 <br><br>
-<a href="https://irinasfv.github.io/irinas-portf/" {:target="_blank"}>
+<a href="https://irinasfv.github.io/irinas-portf/">
     <img src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge" alt="Portfolio Badge"/>
 </a>
 
