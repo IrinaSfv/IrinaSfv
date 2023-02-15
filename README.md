@@ -17,7 +17,7 @@ I love when interfaces are made with care for users, and I want to create exactl
 <br><br>
 Now I’m looking for a job as a front-end developer. I wish to join a dream team, where I can develop myself and work on great projects.
 <br><br>
-<a href="https://irinasfv.github.io/irinas-portf/" target="_blank">
+<a href="https://irinasfv.github.io/irinas-portf/" {:target="_blank"}>
     <img src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge" alt="Portfolio Badge"/>
 </a>
 
