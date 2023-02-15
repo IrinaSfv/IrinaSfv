@@ -26,7 +26,7 @@ Now I’m looking for a job as a front-end developer. I wish to join a dream tea
 * 🎓 I'm doing my best to achieve a high level of mastership. Now I'm actively working on my portfolio and spending a lot of time on self-education.
 * 🎯 My goal is to make interfaces that solve business problems and make users' lives better and more comfortable.
 * 🖋 I try to write well-readable and clean code.
-* 🆕 I'm eager to learn new frameworks and expand my tech stack
+* 🆕 I'm eager to learn new frameworks and expand my tech stack.
 * 📌 To reach my goals, I do:
   * Work on my own pet projects;
   * Read professional books and watch educational videos. For example, now I've been reading the book "Grokking Algorithms" and watching video lectures of the CS50 course;
