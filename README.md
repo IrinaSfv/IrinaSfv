@@ -18,7 +18,7 @@ I love when interfaces are made with care for users, and I want to create exactl
 Now I’m looking for a job as a front-end developer. I wish to join a dream team, where I can develop myself and work on great projects.
 <br><br>
 <a href="https://irinasfv.github.io/irinas-portf/">
-    <img src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge" alt="Portfolio Badge"/>
+    👾 <img src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge" alt="Portfolio Badge"/> 👾
 </a>
 
 ## My principles:
@@ -64,9 +64,9 @@ Now I’m looking for a job as a front-end developer. I wish to join a dream tea
    <img src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" alt="Confluence"/>
 </div>
 
-## Some stats:
+<!-- ## Some stats:
  
 [![Irina Safarova's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrinaSfv&theme=solarized-light)](https://github.com/IrinaSfv/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaSfv&layout=compact&theme=solarized-light)](https://github.com/IrinaSfv/github-readme-stats)
 
-
+ -->
