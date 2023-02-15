@@ -17,6 +17,10 @@ I love when interfaces are made with care for users, and I want to create exactl
 <br><br>
 Now I’m looking for a job as a front-end developer. I wish to join a dream team, where I can develop myself and work on great projects.
 
+<a href="#">
+    <img src="https://img.shields.io/badge/-Portfolio-pink?style=flat-square" alt="Portfolio Badge"/>
+</a>
+
 ## My principles:
 
 * 🎓 I'm doing my best to achieve a high level of mastership. Now I'm actively working on my portfolio and spending a lot of time on self-education.
