@@ -18,7 +18,7 @@ I love when interfaces are made with care for users, and I want to create exactl
 Now I’m looking for a job as a front-end developer. I wish to join a dream team, where I can develop myself and work on great projects.
 <br><br>
 <a href="#">
-    <img src="https://img.shields.io/badge/-Portfolio-pink?style=for-the-badge" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge" alt="Portfolio Badge"/>
 </a>
 
 ## My principles:
