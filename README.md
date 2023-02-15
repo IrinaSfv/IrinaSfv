@@ -16,9 +16,9 @@ I came to development from a related profession: for 2 years I worked as a UX ed
 I love when interfaces are made with care for users, and I want to create exactly those kinds of interfaces. Past experience has helped me learn to be creative, find common ground with different people and work for results. I’m looking forward to using these qualities in my new role.
 <br><br>
 Now I’m looking for a job as a front-end developer. I wish to join a dream team, where I can develop myself and work on great projects.
-
+<br><br>
 <a href="#">
-    <img src="https://img.shields.io/badge/-Portfolio-pink?style=flat-square" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/-Portfolio-pink?style=for-the-badge" alt="Portfolio Badge"/>
 </a>
 
 ## My principles:
