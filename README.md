@@ -12,9 +12,9 @@
   </a>
 </div>
 I came to development from a related profession: for 2 years I worked as a UX editor. I’ve always been interested in how websites and apps are structured from the inside out. Gradually I was fascinated by the desire not just to write texts for interfaces, think about the user’s path and influence the product, but also to create it myself.
-<br>
+<br><br>
 I love when interfaces are made with care for users, and I want to create exactly those kinds of interfaces. Past experience has helped me learn to be creative, find common ground with different people and work for results. I’m looking forward to using these qualities in my new role.
-<br>
+<br><br>
 Now I’m looking for a job as a front-end developer. I wish to join a dream team, where I can develop myself and work on great projects.
 
 ## My principles:
