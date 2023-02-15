@@ -11,21 +11,22 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+I came to development from a related profession: for 2 years I worked as a UX editor. I’ve always been interested in how websites and apps are structured from the inside out. Gradually I was fascinated by the desire not just to write texts for interfaces, think about the user’s path and influence the product, but also to create it myself.
 
-I'm a highly motivated web developer. I dream of building performance applications that solve business problems and provide users with an awesome experience. My previous career as a UX writer allowed me to be communicative, creative and passionate about creating a good UX. 
+I love when interfaces are made with care for users, and I want to create exactly those kinds of interfaces. Past experience has helped me learn to be creative, find common ground with different people and work for results. I’m looking forward to using these qualities in my new role.
 
-Now I’m looking for a job as a front-end developer in a dream team.
+Now I’m looking for a job as a front-end developer. I wish to join a dream team, where I can develop myself and work on great projects.
 
 ## My principles:
 
 * 🎓 I'm doing my best to achieve a high level of mastership. Now I'm actively working on my portfolio and spending a lot of time on self-education.
-* 🎯 My goal is to work in a team with wonderful people, where I can constantly develop myself and work on exciting projects.
+* 🎯 My goal is to make interfaces that solve business problems and make users' lives better and more comfortable.
 * 🖋 I try to write well-readable and clean code.
 * 🆕 I'm eager to learn new frameworks and expand my tech stack
 * 📌 To reach my goals, I do:
-  * Work on my own pet projects
-  * Read professional books and watch educational videos. For example, now I've been reading the book "Grokking Algorithms" and watching video lectures of the CS50 course
-  * Study at [Yandex.Practicum](https://practicum.com/) school and listen carefully to mentors and code reviewers
+  * Work on my own pet projects;
+  * Read professional books and watch educational videos. For example, now I've been reading the book "Grokking Algorithms" and watching video lectures of the CS50 course;
+  * Study at [Yandex.Practicum](https://practicum.com/) school and listen carefully to mentors and code reviewers.
   <!-- * [I solve problems on CodeWars](https://www.codewars.com/users/IreneSfv) -->
   
 ## Current tech stack:
