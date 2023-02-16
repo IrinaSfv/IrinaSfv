@@ -42,7 +42,7 @@ Now I’m looking for a job as a front-end developer. I wish to join a dream tea
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
    <img src="https://img.shields.io/badge/-React-gray?style=for-the-badge&logo=React&logoColor=lightblue" alt="React"/>
    <img src="https://img.shields.io/badge/-NPM-F05033.svg?style=for-the-badge&logo=NPM&logoColor=white" alt="NPM"/>
-   <img src="https://img.shields.io/badge/Bootstrap-7610F7.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"/>
+<!--    <img src="https://img.shields.io/badge/Bootstrap-7610F7.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"/> -->
    <img src="https://img.shields.io/badge/-WebPack-blue?style=for-the-badge&logo=WebPack&logoColor=white" alt="WebPack"/>
 </div>
 
