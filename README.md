@@ -33,6 +33,10 @@ Now I’m looking for a job as a front-end developer. I wish to join a dream tea
   * Study at [Yandex.Practicum](https://practicum.com/) school and listen carefully to mentors and code reviewers.
   <!-- * [I solve problems on CodeWars](https://www.codewars.com/users/IreneSfv) -->
   
+## My achievements:
+
+<a href="https://www.codewars.com/users/IrinaSfv"><img src="https://www.codewars.com/users/IrinaSfv/badges/large"/></a>
+  
 ## Current tech stack:
 
 <div id="stackBadges">
@@ -51,6 +55,7 @@ Now I’m looking for a job as a front-end developer. I wish to join a dream tea
 <div id="soonBadges">
    <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/>
    <img src="https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+   <img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/>
 </div>
 
 ## Tools:
@@ -65,8 +70,5 @@ Now I’m looking for a job as a front-end developer. I wish to join a dream tea
 </div>
 
 <!-- ## Some stats:
- 
 [![Irina Safarova's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrinaSfv&theme=solarized-light)](https://github.com/IrinaSfv/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaSfv&layout=compact&theme=solarized-light)](https://github.com/IrinaSfv/github-readme-stats)
-
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaSfv&layout=compact&theme=solarized-light)](https://github.com/IrinaSfv/github-readme-stats) -->
