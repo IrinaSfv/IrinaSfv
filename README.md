@@ -30,7 +30,7 @@ Now I’m looking for a job as a front-end developer. I wish to join a dream tea
 * 📌 To reach my goals, I do:
   * Work on my own pet projects;
   * Read professional books and watch educational videos. For example, now I've been reading the book "Grokking Algorithms" and watching video lectures of the CS50 course;
-  * Study at [The Rolling Scopes School] (https://rs.school/) and [Yandex.Practicum school](https://practicum.com/) and listen carefully to mentors and code reviewers;
+  * Study at [The Rolling Scopes School](https://rs.school/) and [Yandex.Practicum school](https://practicum.com/) and listen carefully to mentors and code reviewers;
   * [I solve problems on CodeWars](https://www.codewars.com/users/IrinaSfv).
   
 ## My achievements:
